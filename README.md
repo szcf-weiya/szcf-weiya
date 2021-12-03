@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=szcf-weiya&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=szcf-weiya&show_icons=true&hide_title=true&hide_border=true)
+
 <!--
 **szcf-weiya/szcf-weiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
