@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=szcf-weiya&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![](https://github-readme-stats.vercel.app/api?username=szcf-weiya&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=szcf-weiya&hide_progress=false&hide=javascript,html,c,jupyter%20notebook,cuda&langs_count=6&layout=compact)
 
