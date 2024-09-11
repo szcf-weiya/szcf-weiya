@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/szcf-weiya/ESL-CN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=ESL-CN" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/szcf-weiya/SinaSpider">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=SinaSpider" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/szcf-weiya/MonteCarlo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MonteCarlo" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/szcf-weiya/zju-thesis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=zju-thesis" />
 </a>
