@@ -33,6 +33,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MonteCarlo" />
 </a>
 
+<a href="https://github.com/szcf-weiya/LaTeXTables.jl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=LaTeXTables.jl" />
+</a>
+
+<a href="https://github.com/szcf-weiya/techNotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=techNotes" />
+</a>
+
 <a href="https://github.com/szcf-weiya/zju-thesis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=zju-thesis" />
 </a>
