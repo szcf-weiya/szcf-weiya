@@ -22,9 +22,17 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=ESL-CN&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=SinaSpider&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=ESL-CN" />
 </a>
 
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=SinaSpider" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MonteCarlo" />
+</a>
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=zju-thesis" />
+</a>
