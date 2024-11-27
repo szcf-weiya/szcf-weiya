@@ -44,3 +44,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/szcf-weiya/zju-thesis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=zju-thesis" />
 </a>
+
+<a href="https://github.com/szcf-weiya/MTWAS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MTWAS" />
+</a>
+
+<a href="https://github.com/szcf-weiya/benchmark.tree.regressions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=benchmark.tree.regressions" />
+</a>
