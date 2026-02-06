@@ -107,6 +107,94 @@ jobs:
           path: profile/pin-szcf-weiya-MonotoneDecomposition.jl.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=TeXtemplates
+          path: profile/pin-szcf-weiya-TeXtemplates.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=DegreesOfFreedom.jl
+          path: profile/pin-szcf-weiya-DegreesOfFreedom.jl.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=earth.dof.patch
+          path: profile/pin-szcf-weiya-earth.dof.patch.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=SplitClusterTest
+          path: profile/pin-szcf-weiya-SplitClusterTest.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=SplitClusterTest.jl
+          path: profile/pin-szcf-weiya-SplitClusterTest.jl.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=TriMatchMOT
+          path: profile/pin-szcf-weiya-TriMatchMOT.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=fRLR
+          path: profile/pin-szcf-weiya-fRLR.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=GSLwin
+          path: profile/pin-szcf-weiya-GSLwin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=Gibbs-Motif.jl
+          path: profile/pin-szcf-weiya-Gibbs-Motif.jl.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=szcf-weiya&repo=KmeansBenchmarks.jl
+          path: profile/pin-szcf-weiya-KmeansBenchmarks.jl.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=zxy0912&repo=TWASKnockoff
+          path: profile/pin-zxy0912-TWASKnockoff.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"
