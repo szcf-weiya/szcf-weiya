@@ -1,63 +1,48 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=szcf-weiya&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=szcf-weiya&hide_progress=false&hide=javascript,html,c,jupyter%20notebook,cuda&exclude_repo=CplusplusTutorial,ghostbasil,forked_seurat&langs_count=6&layout=compact)
-
-<!--
-**szcf-weiya/szcf-weiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](./profile/stats.svg)
+![](./profile/top-langs.svg)
 
 #### Top Repositories
 
 
 <a href="https://github.com/szcf-weiya/ESL-CN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=ESL-CN" />
+  <img align="center" src="./profile/pin-szcf-weiya-ESL-CN.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/SinaSpider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=SinaSpider" />
+  <img align="center" src="./profile/pin-szcf-weiya-SinaSpider.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/MonteCarlo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MonteCarlo" />
+  <img align="center" src="./profile/pin-szcf-weiya-MonteCarlo.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/LaTeXTables.jl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=LaTeXTables.jl" />
+  <img align="center" src="./profile/pin-szcf-weiya-LaTeXTables-jl.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/techNotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=techNotes" />
+  <img align="center" src="./profile/pin-szcf-weiya-techNotes.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/zju-thesis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=zju-thesis" />
+  <img align="center" src="./profile/pin-szcf-weiya-zju-thesis.svg" />
 </a>
 
 
 <a href="https://github.com/szcf-weiya/benchmark.tree.regressions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=benchmark.tree.regressions" />
+  <img align="center" src="./profile/pin-szcf-weiya-benchmark.tree.regressions.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/MonotoneSplines.jl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MonotoneSplines.jl" />
+  <img align="center" src="./profile/pin-szcf-weiya-MonotoneSplines.jl.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/MTWAS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MTWAS" />
+  <img align="center" src="./profile/pin-szcf-weiya-MTWAS.svg" />
 </a>
 
 <a href="https://github.com/szcf-weiya/MonotoneDecomposition.jl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=szcf-weiya&repo=MonotoneDecomposition.jl" />
+  <img align="center" src="./profile/pin-szcf-weiya-MonotoneDecomposition.jl.svg" />
 </a>
