@@ -39,10 +39,6 @@
   <img align="center" src="./profile/pin-szcf-weiya-MonotoneSplines.jl.svg" />
 </a>
 
-<a href="https://github.com/szcf-weiya/MTWAS">
-  <img align="center" src="./profile/pin-szcf-weiya-MTWAS.svg" />
-</a>
-
 <a href="https://github.com/szcf-weiya/MonotoneDecomposition.jl">
   <img align="center" src="./profile/pin-szcf-weiya-MonotoneDecomposition.jl.svg" />
 </a>
