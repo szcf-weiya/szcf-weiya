@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lijun Wang&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 3073, Total Commits  : 5125, Total PRs: 71, Total Issues: 437, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 3072, Total Commits  : 5126, Total PRs: 71, Total Issues: 437, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 47.36490341681625;
+        stroke-dashoffset: 47.36450130133013;
       }
     }
   
